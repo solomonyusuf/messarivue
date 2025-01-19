@@ -397,7 +397,6 @@
         <div class="card-header d-flex align-items-center justify-content-between">
           <div>
             <h5 class="card-title text-white mb-0">Charts</h5>
-            <p class="card-subtitle my-0">$50,863.98</p>
           </div>
           <div class="dropdown">
             <button type="button" class="btn dropdown-toggle px-0" data-bs-toggle="dropdown" aria-expanded="false">
